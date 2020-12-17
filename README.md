@@ -1,1 +1,1 @@
-# flask-simples-starter-kit
+# flask-simplest-starter-kit
